@@ -19,7 +19,6 @@ A Passionate Software Engineer . I've working with ***Spring Boot***, ***Java***
 <div align="center">
     
 | Language | `Java` `C#` `Python` |
-| :- | 
 | Backend | `Spring Boot` |
 | Web | `ReactJS/NextJS` `VueJS`|
 | Database | `MSSQL` `MySQL` |
