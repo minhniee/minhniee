@@ -1,18 +1,13 @@
 <!-- Removed commented-out image section -->
 <div align="start">
-  <a href="https://git.io/streak-stats">
-    <img 
-      src="https://github-readme-streak-stats.herokuapp.com?user=minhniee&theme=telegram&hide_border=true&border_radius=5.3&date_format=M%20j%5B%2C%20Y%5D" 
-      alt="GitHub Streak" />
-  </a>
+  
   
   <h2>Hi 👋, I'm <code>Le Quang Minh</code></h2>
   <p>A Passionate Software Engineer. I've been working with <strong>Spring Boot</strong>, <strong>Java</strong>, and many other technologies 💻</p>
 </div>
 
 <div align="center">
-  <img src="assets/gif/developer.gif" width="500px" alt="Developer GIF"/>
-  <h3><b>No one can beat me</b></h3>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=minhniee%20" alt="GitHub Streak" /></a>
 </div>
 
 <details>
@@ -35,10 +30,10 @@
         <th>Database</th>
         <td><code>MSSQL</code>, <code>MySQL</code></td>
       </tr>
-      <tr>
+<!--       <tr>
         <th>Others</th>
         <td><code>Firebase</code>, <code>Redis</code></td>
-      </tr>
+      </tr> -->
     </table>
   </div>
 </details>
@@ -46,7 +41,6 @@
 ## What I'm doing now 👀
 
 - 🎨 Contributing to <strong>Open Source</strong> projects
-- ⭐ Developing awesome projects for the Google Play Store
 - 🔥 Diving into <strong>software architectures</strong>, <strong>system design</strong>, and <strong>LeetCode</strong>
 
 ---
