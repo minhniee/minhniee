@@ -1,7 +1,8 @@
 <!-- <img src="assets/gif/developer.gif" width="100%"/> -->
 
 <div align="start">
- 
+
+ <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=minhniee&theme=telegram&hide_border=true&border_radius=5.3&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
 ## Hi👋, I'm `Le Quang Minh`
 A Passionate Software Engineer . I've working with ***Spring Boot***, ***Java*** and many other technologies 💻
 
