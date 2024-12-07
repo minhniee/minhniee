@@ -1,7 +1,63 @@
-<h1 align="center">Hi 👋, I'm Le Quang Minh</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=minhniee&label=Profile%20views&color=0e75b6&style=flat" alt="minhniee" /> </p>
+<!-- <img src="assets/gif/developer.gif" width="100%"/> -->
+
+<div align="start">
+ 
+## Hi👋, I'm `Le Quang Minh`
+A Passionate Software Engineer . I've working with ***Spring Boot***, ***Java*** and many other technologies 💻
+
+</div>
+
+######
+
+<div align="center">
+    <img src="assets/gif/developer.gif" width="500px"/>
+    <h3><b> No one can beat me</b></h3>
+</div>
+
+<details>
+<summary>Skill Set 💡</summary>
+<div align="center">
+    
+| Language | `Java` `C#` `Python` |
+| :- | 
+| Backend | `Spring Boot` |
+| Web | `ReactJS/NextJS` `VueJS`|
+| Database | `MSSQL` `MySQL` |
+| Others | `Firebase` `Redis` |
+
+</div>
+
+</details>
 
 
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minhniee&" alt="minhniee" /></p>
+<details>
+    <summary>Github Stats</summary>
+    <p align="center">
+        <img 
+
+        />
+    </p>
+
+</details>
+
+## What I'm doing now ? 👀
+
+- 🎨 Contribute to `Open Source` projects
+- ⭐ Developing awesome Projects on the Google Play Store
+- 🔥 Diving in `software architectures`, `system design` and `LeetCode`
+
+######
+
+## Reach me via 👇
+
+<div style="display: flex; justify-content: flex-start;">
+
+  <!-- GMAIL -->
+  <a href="mailto:minhlqbth1912@gmail.com" title="Send Email" style="padding-right: 10px;">
+    <img src="assets/logo/Gmail.png" width="45" alt="Email" />
+  </a>
+
+
+
+</div>
