@@ -1,81 +1,61 @@
-<!-- <img src="assets/gif/developer.gif" width="100%"/> -->
-
+<!-- Removed commented-out image section -->
 <div align="start">
-
- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=minhniee&theme=telegram&hide_border=true&border_radius=5.3&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
-## Hi👋, I'm `Le Quang Minh`
-A Passionate Software Engineer . I've working with ***Spring Boot***, ***Java*** and many other technologies 💻
-
+  <a href="https://git.io/streak-stats">
+    <img 
+      src="https://github-readme-streak-stats.herokuapp.com?user=minhniee&theme=telegram&hide_border=true&border_radius=5.3&date_format=M%20j%5B%2C%20Y%5D" 
+      alt="GitHub Streak" />
+  </a>
+  
+  <h2>Hi 👋, I'm <code>Le Quang Minh</code></h2>
+  <p>A Passionate Software Engineer. I've been working with <strong>Spring Boot</strong>, <strong>Java</strong>, and many other technologies 💻</p>
 </div>
-- uses: Platane/snk@v3
-  with:
-    # github user name to read the contribution graph from (**required**)
-    # using action context var `github.repository_owner` or specified user
-    github_user_name: ${{ github.repository_owner }}
-
-    # list of files to generate.
-    # one file per line. Each output can be customized with options as query string.
-    #
-    #  supported options:
-    #  - palette:     A preset of color, one of [github, github-dark, github-light]
-    #  - color_snake: Color of the snake
-    #  - color_dots:  Coma separated list of dots color.
-    #                 The first one is 0 contribution, then it goes from the low contribution to the highest.
-    #                 Exactly 5 colors are expected.
-    outputs: |
-      dist/github-snake.svg
-      dist/github-snake-dark.svg?palette=github-dark
-      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-######
 
 <div align="center">
-    <img src="assets/gif/developer.gif" width="500px"/>
-    <h3><b> No one can beat me</b></h3>
+  <img src="assets/gif/developer.gif" width="500px" alt="Developer GIF"/>
+  <h3><b>No one can beat me</b></h3>
 </div>
 
 <details>
-<summary>Skill Set 💡</summary>
-<div align="center">
-    
-| Language | `Java` `C#` `Python` |
-| Backend | `Spring Boot` |
-| Web | `ReactJS/NextJS` `VueJS`|
-| Database | `MSSQL` `MySQL` |
-| Others | `Firebase` `Redis` |
-
-</div>
-
+  <summary><b>Skill Set 💡</b></summary>
+  <div align="center">
+    <table>
+      <tr>
+        <th>Language</th>
+        <td><code>Java</code>, <code>C#</code>, <code>Python</code></td>
+      </tr>
+      <tr>
+        <th>Backend</th>
+        <td><code>Spring Boot</code></td>
+      </tr>
+      <tr>
+        <th>Web</th>
+        <td><code>ReactJS/NextJS</code>, <code>VueJS</code></td>
+      </tr>
+      <tr>
+        <th>Database</th>
+        <td><code>MSSQL</code>, <code>MySQL</code></td>
+      </tr>
+      <tr>
+        <th>Others</th>
+        <td><code>Firebase</code>, <code>Redis</code></td>
+      </tr>
+    </table>
+  </div>
 </details>
 
+## What I'm doing now 👀
 
+- 🎨 Contributing to <strong>Open Source</strong> projects
+- ⭐ Developing awesome projects for the Google Play Store
+- 🔥 Diving into <strong>software architectures</strong>, <strong>system design</strong>, and <strong>LeetCode</strong>
 
-<details>
-    <summary>Github Stats</summary>
-    <p align="center">
-        <img 
-
-        />
-    </p>
-
-</details>
-
-## What I'm doing now ? 👀
-
-- 🎨 Contribute to `Open Source` projects
-- ⭐ Developing awesome Projects on the Google Play Store
-- 🔥 Diving in `software architectures`, `system design` and `LeetCode`
-
-######
+---
 
 ## Reach me via 👇
 
 <div style="display: flex; justify-content: flex-start;">
-
   <!-- GMAIL -->
   <a href="mailto:minhlqbth1912@gmail.com" title="Send Email" style="padding-right: 10px;">
     <img src="assets/logo/Gmail.png" width="45" alt="Email" />
   </a>
-
-
-
 </div>
