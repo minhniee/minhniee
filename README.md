@@ -10,6 +10,8 @@
   [![GitHub Streak](https://streak-stats.demolab.com?user=minhniee)](https://git.io/streak-stats)
 </div>
 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=minhniee" alt="GitHub Streak" /></a>
+
 <details>
   <summary><b>Skill Set 💡</b></summary>
   <div align="center">
