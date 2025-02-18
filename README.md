@@ -7,10 +7,8 @@
 </div>
 
 <div align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com?user=minhniee)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=minhniee" alt="GitHub Streak" /></a>
 </div>
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=minhniee" alt="GitHub Streak" /></a>
 
 <details>
   <summary><b>Skill Set 💡</b></summary>
@@ -32,10 +30,11 @@
         <th>Database</th>
         <td><code>MSSQL</code>, <code>MySQL</code></td>
       </tr>
-<!--       <tr>
+      <!-- Uncommented "Others" section -->
+      <tr>
         <th>Others</th>
         <td><code>Firebase</code>, <code>Redis</code></td>
-      </tr> -->
+      </tr>
     </table>
   </div>
 </details>
