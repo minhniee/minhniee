@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=minhniee" >
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-delta-nine.vercel.app?user=minhniee" alt="GitHub Streak" /></a>
 </div>
 
 <details>
