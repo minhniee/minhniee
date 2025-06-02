@@ -1,57 +1,137 @@
-<!-- Removed commented-out image section -->
-<div align="start">
-  
-  
-  <h2>Hi 👋, I'm <code>Le Quang Minh</code></h2>
-  <p>A Passionate Software Engineer. I've been working with <strong>Spring Boot</strong>, <strong>Java</strong>, and many other technologies 💻</p>
+# 🌟 Welcome to My Digital Universe! 
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Le+Quang+Minh;Passionate+Software+Engineer+%F0%9F%92%BB;Welcome+to+my+coding+journey!" alt="Typing SVG" />
 </div>
 
 <div align="center">
- 
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=minhniee" alt="GitHub Streak" /></a>
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Coding GIF">
 </div>
-
-<details>
-  <summary><b>Skill Set 💡</b></summary>
-  <div align="center">
-    <table>
-      <tr>
-        <th>Language</th>
-        <td><code>Java</code>, <code>C#</code>, <code>Python</code></td>
-      </tr>
-      <tr>
-        <th>Backend</th>
-        <td><code>Spring Boot</code>, <code>ASP.NET</code></td>
-      </tr>
-      <tr>
-        <th>Web</th>
-        <td><code>ReactJS/NextJS</code></td>
-      </tr>
-      <tr>
-        <th>Database</th>
-        <td><code>MSSQL</code>, <code>MySQL</code></td>
-      </tr>
-      <!-- Uncommented "Others" section -->
-<!--       <tr>
-        <th>Others</th>
-        <td><code>Firebase</code>, <code>Redis</code></td>
-      </tr> -->
-    </table>
-  </div>
-</details>
-
-## What I'm doing now 👀
-
-- 🎨 Contributing to <strong>Open Source</strong> projects
-- 🔥 Diving into <strong>software architectures</strong>, <strong>system design</strong>, and <strong>LeetCode</strong>
 
 ---
 
-## Reach me via 👇
+## 🚀 About Me
 
-<div style="display: flex; justify-content: flex-start;">
-  <!-- GMAIL -->
-  <a href="mailto:minhlqbth1912@gmail.com" title="Send Email" style="padding-right: 10px;">
-    <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" width="45" alt="Email" />
-  </a>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+```javascript
+const lequangminh = {
+    role: "Software Engineer",
+    location: "Vietnam 🇻🇳",
+    passion: ["Coding", "System Design", "Open Source"],
+    currentlyLearning: ["Software Architecture", "LeetCode", "System Design"],
+    funFact: "I debug with coffee ☕ and solve problems with music 🎵"
+};
+```
+
+<br clear="right"/>
+
+---
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### 💻 Programming Languages
+<img src="https://skillicons.dev/icons?i=java,cs,python&theme=dark" />
+
+### 🔧 Backend Technologies  
+<img src="https://skillicons.dev/icons?i=spring,dotnet&theme=dark" />
+
+### 🌐 Frontend Development
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,js&theme=dark" />
+
+### 🗄️ Databases
+<img src="https://skillicons.dev/icons?i=mysql,postgresql&theme=dark" />
+
+### ⚡ Tools & Others
+<img src="https://skillicons.dev/icons?i=git,docker,firebase,redis,postman,vscode&theme=dark" />
+
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=minhniee&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=minhniee&theme=radical&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=FFFFFF" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhniee&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF" alt="Top Languages" />
+</div>
+
+---
+
+## 🎯 Current Focus
+
+<div align="center">
+
+| 🔥 **What I'm Working On** | 🌱 **What I'm Learning** | 🎨 **What I Love** |
+|:---:|:---:|:---:|
+| Open Source Projects | Software Architecture | Clean Code |
+| System Design | Advanced Algorithms | Problem Solving |
+| Spring Boot Apps | Design Patterns | Team Collaboration |
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=minhniee&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=4" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=minhniee&custom_title=My%20Contribution%20Graph&bg_color=ffffff&color=5A67D8&line=5A67D8&point=403d3d&area_color=BADBFF&area=true&hide_border=true&theme=minimal" alt="Activity Graph" />
+</div>
+
+---
+
+## 🌈 Fun Zone
+
+<div align="center">
+  
+### 🎭 Random Dev Quote
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+
+### 🐍 Contribution Snake
+<img src="https://github.com/minhniee/minhniee/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+</div>
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:minhlqbth1912@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/minhniee)
+
+</div>
+
+---
+
+<div align="center">
+  
+### 💫 "Code is like humor. When you have to explain it, it's bad." 
+  
+<img src="https://komarev.com/ghpvc/?username=minhniee&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="Footer GIF">
+
+**✨ Thanks for visiting! Have a great day! ✨**
+
 </div>
