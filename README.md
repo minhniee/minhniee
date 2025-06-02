@@ -7,7 +7,8 @@
 </div>
 
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-delta-nine.vercel.app?user=minhniee" alt="GitHub Streak" /></a>
+ 
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=minhniee" alt="GitHub Streak" /></a>
 </div>
 
 <details>
@@ -20,21 +21,21 @@
       </tr>
       <tr>
         <th>Backend</th>
-        <td><code>Spring Boot</code></td>
+        <td><code>Spring Boot</code>, <code>ASP.NET</code></td>
       </tr>
       <tr>
         <th>Web</th>
-        <td><code>ReactJS/NextJS</code>, <code>VueJS</code></td>
+        <td><code>ReactJS/NextJS</code></td>
       </tr>
       <tr>
         <th>Database</th>
         <td><code>MSSQL</code>, <code>MySQL</code></td>
       </tr>
       <!-- Uncommented "Others" section -->
-      <tr>
+<!--       <tr>
         <th>Others</th>
         <td><code>Firebase</code>, <code>Redis</code></td>
-      </tr>
+      </tr> -->
     </table>
   </div>
 </details>
@@ -51,6 +52,6 @@
 <div style="display: flex; justify-content: flex-start;">
   <!-- GMAIL -->
   <a href="mailto:minhlqbth1912@gmail.com" title="Send Email" style="padding-right: 10px;">
-    <img src="assets/logo/Gmail.png" width="45" alt="Email" />
+    <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" width="45" alt="Email" />
   </a>
 </div>
