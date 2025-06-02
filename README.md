@@ -12,7 +12,6 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ```javascript
 const lequangminh = {
@@ -45,7 +44,7 @@ const lequangminh = {
 <img src="https://skillicons.dev/icons?i=mysql,postgresql&theme=dark" />
 
 ### ⚡ Tools & Others
-<img src="https://skillicons.dev/icons?i=git,docker,firebase,redis,postman,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,docker,postman,vscode&theme=dark" />
 
 
 </div>
@@ -54,9 +53,7 @@ const lequangminh = {
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=minhniee&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF" alt="GitHub Stats" />
-</div>
+
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=minhniee&theme=radical&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=FFFFFF" alt="GitHub Streak" />
@@ -82,13 +79,6 @@ const lequangminh = {
 
 ---
 
-## 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=minhniee&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=4" alt="GitHub Trophies" />
-</div>
-
----
 
 ## 📈 Activity Graph
 
@@ -98,26 +88,12 @@ const lequangminh = {
 
 ---
 
-## 🌈 Fun Zone
-
-<div align="center">
-  
-### 🎭 Random Dev Quote
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-
-### 🐍 Contribution Snake
-<img src="https://github.com/minhniee/minhniee/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-</div>
-
----
 
 ## 🤝 Let's Connect!
 
 <div align="center">
   
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:minhlqbth1912@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/minhniee)
 
 </div>
