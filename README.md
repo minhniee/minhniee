@@ -14,7 +14,7 @@
 
 
 ```javascript
-const lequangminh = {
+const leQuangMinh = {
     role: "Software Engineer",
     location: "Vietnam 🇻🇳",
     passion: ["Coding", "System Design", "Open Source"],
